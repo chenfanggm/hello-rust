@@ -2,4 +2,4 @@
 
 echo Compiling Rust program from $PWD/main.rs to ./build/main
 
-rustc ./main.rs --out-dir ./build
+rustc ./src/main.rs --out-dir ./build
